@@ -448,7 +448,7 @@ mqtt:
       payload_close: "CLOSE"
       payload_stop: "STOP"
       state_opening: "opening"
-      state_closed: "closed"
+      state_closing: "closing"
       state_stopped: "stopped"
       payload_available: "online"
       payload_not_available: "offline"
